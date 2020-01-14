@@ -1,0 +1,323 @@
+./maps/942714 HIMEHINA - Hitogata (TV Size)/HIMEHINA - Hitogata (TV Size) (Ryuusei Aika) [Nanako's Hard].osu
+./maps/910871 SEVENTEEN - Pretty U/SEVENTEEN - Pretty U (Sonnyc) [Hard].osu
+./maps/982226 Touyama Nao - Tomoshibi no Manimani (TV Size)/Touyama Nao - Tomoshibi no Manimani (TV Size) (Creamy Candy) [Hard].osu
+./maps/797568 Sano Hiroaki feat. Tatsumi Megumi - Victory!/Sano Hiroaki feat. Tatsumi Megumi - Victory! (C O N N E R) [Nich's Hard].osu
+./maps/842592 Aso Natsuko - Perfect-area complete! (TV Size)/Aso Natsuko - Perfect-area complete! (TV Size) (Umi) [Hard].osu
+./maps/785650 yuki. feat. setsunan - Hello! World/yuki. feat. setsunan - Hello! World (Regou) [Hard!].osu
+./maps/755647 M2U - A Bella! (feat. Lucy)/M2U - A Bella! (feat. Lucy) (Pentori) [Hard].osu
+./maps/948868 Ben Briggs - Selecting Continue/Ben Briggs - Selecting Continue (Mao) [Hard].osu
+./maps/928283 Se-U-Ra - QSHELL -Kyoshoku no Shell-/Se-U-Ra - QSHELL -Kyoshoku no Shell- (Azzedd) [Dored's Hard].osu
+./maps/861819 Shikata Akiko - Akatsuki/Shikata Akiko - Akatsuki (Linada) [Arche's Hard].osu
+./maps/984013 Dictate - Militant/Dictate - Militant (GreenHue) [Ultima Fox's Hard].osu
+./maps/842540 Duca - Kioku x Hajimari/Duca - Kioku x Hajimari (Alexsander) [Hard.].osu
+./maps/903755 EDEN - Circles/EDEN - Circles (Mak Kau Hijau) [Hard].osu
+./maps/923174 IU - Nae Kkumeun Patissiere (TV Size)/IU - Nae Kkumeun Patissiere (TV Size) (Uta) [Hard].osu
+./maps/861957 Tsukikage - Spatto! Spy & Spyce (TV Size)/Tsukikage - Spatto! Spy & Spyce (TV Size) (Yukiyo) [Airin's Hard].osu
+./maps/814673 Feryquitous - Central Nucleus/Feryquitous - Central Nucleus (Smug Nanachi) [Hard].osu
+./maps/260777 SoundTeMP - Title/SoundTeMP - Title (ErunamoJAZZ) [Hard].osu
+./maps/890173 Sangatsu no Phantasia - PINK LEMONADE (TV Size)/Sangatsu no Phantasia - PINK LEMONADE (TV Size) (Dubturt) [Hard].osu
+./maps/917930 Fujiwara Chika (CV_ Kohara Konomi) - Chikatto Chika Chika (TV Size)/Fujiwara Chika (CV Kohara Konomi) - Chikatto Chika Chika (TV Size) (Yukiyo) [spoes' Hard].osu
+./maps/909776 ASCA - RESISTER (TV Size)/ASCA - RESISTER (TV Size) (Doormat) [Hard].osu
+./maps/940726 Hasegawa Daisuke - Uragirimono no Requiem (TV Size)/Hasegawa Daisuke - Uragirimono no Requiem (TV Size) (hypercyte) [Peter's Hard].osu
+./maps/866493 The Red Army Choir - National Anthem Of The USSR/The Red Army Choir - National Anthem Of The USSR (Arf) [Hardened].osu
+./maps/1001305 Shiggy Jr. - oyasumi/Shiggy Jr. - oyasumi (-Arche) [Hard].osu
+./maps/981616 _namirin - Mizutamari Tobikoete (with Nanahira)/namirin - Mizutamari Tobikoete (with Nanahira) (eiri-) [Ayynna's Hard].osu
+./maps/947770 HyuN - Grin/HyuN - Grin (ktgster) [Hard].osu
+./maps/971432 _namirin - Irodori Sora/namirin - Irodori Sora (Agatsu) [Hinsvar's Hard].osu
+./maps/912168 Veritas Unae - _DISK 1_/Veritas Unae - ~DISK 1~ (Yamakudzi) [Frontier's Hard].osu
+./maps/698526 BTS - MIC Drop (Steve Aoki Remix)/BTS - MIC Drop (Steve Aoki Remix) (Syph) [KittyAdventure's Hard].osu
+./maps/798691 BLACKPINK - DDU-DU DDU-DU/BLACKPINK - DDU-DU DDU-DU (Irreversible) [Marianna's Hard].osu
+./maps/987181 Kano - Stella-rium (TV Size)/Kano - Stella-rium (TV Size) (Sonnyc) [Hard].osu
+./maps/759331 Chino (CV_ Minase Inori) - Mahou Shoujo Chino/Chino (CV Minase Inori) - Mahou Shoujo Chino (Yuuma) [Kokezigoku's Hard].osu
+./maps/852406 Sota Fujimori - ACCELERATE/Sota Fujimori - ACCELERATE (Chaoslitz) [Hard].osu
+./maps/989370 Mago de Oz - Bajo mi piel/Mago de Oz - Bajo mi piel (zigizigiefe) [Entry's Hard].osu
+./maps/845094 ICE - Majestic Phoenix/ICE - Majestic Phoenix (Zetera) [Hard].osu
+./maps/860514 nameless x toa - Patchwork Staccato/nameless x toa - Patchwork Staccato (Kowari) [Hard].osu
+./maps/806105 Takahashi Yoko - Zankoku na Tenshi no These (TV Size)/Takahashi Yoko - Zankoku na Tenshi no These (TV Size) (CptSqBany) [ReFaller's Hard].osu
+./maps/873667 OISHII - ONIGIRI FREEWAY/OISHII - ONIGIRI FREEWAY (Niva) [Hard].osu
+./maps/815753 THE ORAL CIGARETTES - ReI/THE ORAL CIGARETTES - ReI (SMOKELIND) [Xenon's Hard].osu
+./maps/671597 EMILIA (CV_ Takahashi Rie) - Stay Alive (Jun Kuroda Bootleg Remix)/EMILIA (CV Takahashi Rie) - Stay Alive (Jun Kuroda Bootleg Remix) (gary00737) [Hard].osu
+./maps/930412 Six Stones - Patsany, ne teryayte rapir (feat. Maemiza)/Six Stones - Patsany, ne teryayte rapir (feat. Maemiza) (3mplify) [Seto's Hard].osu
+./maps/871425 mimimemeMIMI - CANDY MAGIC (TV Size)/mimimemeMIMI - CANDY MAGIC (TV Size) (Uta) [Hard].osu
+./maps/927337 Muse - Pressure/Muse - Pressure (Mirash) [Hard].osu
+./maps/738265 Luce Twinkle Wink_ - go to Romance_____ (TV Size)/Luce Twinkle Wink - go to Romance (TV Size) (Shanipika) [Hard].osu
+./maps/834738 halca - Kimi no Tonari (TV Size)/halca - Kimi no Tonari (TV Size) (Agatsu) [Agent_James' Hard].osu
+./maps/906382 HO-KAGO TEA TIME - NO, Thank You! (TV Size)/HO-KAGO TEA TIME - NO, Thank You! (TV Size) (nextplay) [Hard].osu
+./maps/961042 Brookes Brothers feat. Georgie Allen - New Wave/Brookes Brothers feat. Georgie Allen - New Wave (Mir) [Hard].osu
+./maps/673949 Toyama Kasumi (CV_ Aimi) - Kira Kira Boshi _Hajimari no Stage Ver._/Toyama Kasumi (CV Aimi) - Kira Kira Boshi ~Hajimari no Stage Ver.~ (Nitrous) [Hard].osu
+./maps/999739 Falcom Sound Team jdk feat. Sazaka Megumi - Ashita e no Kiseki -Opening Size-/Falcom Sound Team jdk feat. Sazaka Megumi - Ashita e no Kiseki -Opening Size- (Bellicose) [Hard].osu
+./maps/763607 Denkishiki Karen Ongaku Shuudan - Owari Tsumugishi Mono/Denkishiki Karen Ongaku Shuudan - Owari Tsumugishi Mono (LMT) [Hard].osu
+./maps/880285 Mitchie M - Birthday Song for Miku/Mitchie M - Birthday Song for Miku (dennischan) [Hard].osu
+./maps/950784 Hanatan - WAVE/Hanatan - WAVE (eiri-) [eINess' Hard].osu
+./maps/585339 Adore Delano - I Adore U/Adore Delano - I Adore U (Gabe) [Hard].osu
+./maps/984363 kicco - Kokoro... Hare/kicco - Kokoro... Hare (Nana Abe) [Hard].osu
+./maps/907805 zts - liberatedliberator/zts - liberatedliberator (deetz) [LC's Hard].osu
+./maps/749323 factal - Wake Up While Sleeping/factal - Wake Up While Sleeping (Nokris) [Hard].osu
+./maps/988132 Amatsuki - Outer Science/Amatsuki - Outer Science (Nevo) [Glaceon's Hard].osu
+./maps/1009836 TryHardNinja feat. CaptainSparklez - Revenge/TryHardNinja feat. CaptainSparklez - Revenge (fieryrage) [Foxy's Easy].osu
+./maps/416702 nameless x toa - Patchwork Staccato/nameless x toa - Patchwork Staccato (Taeyang) [Hard].osu
+./maps/936345 BiSH - PAiNT it BLACK (TV Size)/BiSH - PAiNT it BLACK (TV Size) (GodKei) [gary00737's Hard].osu
+./maps/908927 Co shu Nie - ZETTAI ZETSUMEI (TV Size)/Co shu Nie - Zettai Zetsumei (TV Size) (DJ Lucky) [Aeril's Hard].osu
+./maps/848977 Ice vs. Morimori Atsushi - RE_UNION -Duo Blade Against-/Ice vs. Morimori Atsushi - REUNION -Duo Blade Against- (Realazy) [Icekalt's Hard].osu
+./maps/934265 IAHN - Pink Love (feat. Lency)/IAHN - Pink Love (feat. Lency) (Uta) [Eli's Hard].osu
+./maps/956590 LiSA - Gurenge (TV Size)/LiSA - Gurenge (TV Size) (Onlybiscuit) [Rolniczy's Hard].osu
+./maps/820707 EDEN - Circles/EDEN - Circles (GreenHue) [Hard].osu
+./maps/883505 nanobii - HYPERDRIVE/nanobii - HYPERDRIVE (hypercyte) [Peter's Hard].osu
+./maps/835472 Hanako (CV_ Kino Hina), Olivia (CV_ Nagae Rika), Kasumi (CV_ Kohara Konomi) - Three Piece (TV Size)/Hanako (CV Kino Hina), Olivia (CV Nagae Rika), Kasumi (CV Kohara Konomi) - Three Piece (TV Size) (Yamakudzi) [Riana's Hard].osu
+./maps/954840 Beverly - Again (TV Size)/Beverly - Again (TV Size) (UndeadCapulet) [Hard].osu
+./maps/890413 soutaiseiriron - Jigoku Sensei/Soutaiseiriron - Jigoku Sensei (Fixxis) [Hard].osu
+./maps/1009278 Mrs. GREEN APPLE - Inferno (TV Size)/Mrs. GREEN APPLE - Inferno (TV Size) (Ryuusei Aika) [Lunala's Hard].osu
+./maps/836883 Allj - Suzuki/Allj - Suzuki (Testo) [Mikan's Hard].osu
+./maps/747684 ClariS - SHIORI/ClariS - SHIORI (PantyDev) [Hard].osu
+./maps/955873 Akatsuki Records - Do You Remember Me/Akatsuki Records - Do You Remember Me (Zelq) [Hard].osu
+./maps/814924 Denkishiki Karen Ongaku Shuudan - Gareki no Yume/Denkishiki Karen Ongaku Shuudan - Gareki no Yume (Celektus) [Hard].osu
+./maps/762282 Himeringo - Yonjuunana/Himeringo - Yonjuunana (Gottagof4st) [Mentai's Hard].osu
+./maps/708445 Hello, Happy World! - Goka! Gokai! Phantom Thief!/Hello, Happy World! - Goka! Gokai! Phantom Thief! (Atalanta) [Kowari's Hard].osu
+./maps/1004554 KEiNA - Karen Setsugetsuka (Short Ver.)/KEiNA - Karen Setsugetsuka (Short Ver.) (August) [Misure's Hard].osu
+./maps/990823 Napoleon - Utopia/Napoleon - Utopia (Mun) [Hard].osu
+./maps/966568 Ricky Montgomery - This December/Ricky Montgomery - This December (Xehn) [Xenon & PotatoBoy's Hard].osu
+./maps/829145 SOUND HOLIC - Airman ga Taosenai (SOUND HOLIC Ver.)/SOUND HOLIC - Airman ga Taosenai (SOUND HOLIC Ver.) (ChaoticRed) [Rolniczy's Hard].osu
+./maps/933940 Ben Briggs - Yes (Maybe)/Ben Briggs - Yes (Maybe) (Myxomatosis) [Hard].osu
+./maps/886368 hanser - No title/hanser - No title (Alumetri) [wenect's Hard].osu
+./maps/794585 Luis Fonsi, Omoi & R3 Music Box - Teopacito feat. Will Stetson/Luis Fonsi, Omoi & R3 Music Box - Teopacito feat. Will Stetson (Kroytz) [Dakini's Hard].osu
+./maps/989761 Yamazaki Erii - Last Promise (TV Size)/Yamazaki Erii - Last Promise (TV Size) (Sidetail) [AF's Hard].osu
+./maps/451644 Dual & Dorothy starring Taneda Risa, Sakura Ayane - Oshiete/Dual & Dorothy starring Taneda Risa, Sakura Ayane - Oshiete (VINXIS) [Kalibe's Hard].osu
+./maps/909739 Primary - Shinon/Primary - Shinon (Nao Tomori) [Hard].osu
+./maps/961320 Kuba Oms - All In All/Kuba Oms - All in All (Venix) [Hard].osu
+./maps/428233 senya - Mouth to Mouth/senya - Mouth to Mouth (Dailycare) [Satellite's Hard].osu
+./maps/777597 paranoid void - Utsukushii Kodoku/PARANOID VOID - Utsukushii Kodoku (dsco) [Hard].osu
+./maps/980783 Akatsuki Records - Do You Remember Me/Akatsuki Records - Do You Remember Me (- Matha -) [Nao's Hard].osu
+./maps/924403 Roselia - Guren no Yumiya/Roselia - Guren no Yumiya (Nuvolina) [Hard].osu
+./maps/397764 Akiyama Uni - Kaoru Juyouka/Akiyama Uni - Kaoru Juyouka (Hollow Wings) [Hard].osu
+./maps/585019 BABYMETAL - NO RAIN, NO RAINBOW/BABYMETAL - NO RAIN, NO RAINBOW (Hysteria) [Nao's Hard].osu
+./maps/722873 Sayuri - Heikousen/Sayuri - Heikousen (FoxyGrandpa) [Thievley's Hard].osu
+./maps/945442 Tia - Nirvana (TV Size)/Tia - Nirvana (TV Size) (Nevo) [Uta's Hard].osu
+./maps/777143 Marshmello x Lil Peep - Spotlight/Marshmello x Lil Peep - Spotlight (Pachiru) [Gabe's Hard].osu
+./maps/932901 Mili - Ga1ahad and Scientific Witchery/Mili - Ga1ahad and Scientific Witchery (Icekalt) [Hard].osu
+./maps/935111 DJ Fresh - Gold Dust/DJ Fresh - Gold Dust (Sotarks) [Nikakis' Hard].osu
+./maps/988485 3 Nen E Gumi Utatan (Nagisa & Kayano & Karuma & Isogai & Maehara) - QUESTION (TV Size)/3 Nen E Gumi Utatan (Nagisa & Kayano & Karuma & Isogai & Maehara) - QUESTION (TV Size) (Mocaotic) [Hard].osu
+./maps/979407 Ito Kashitaro - Ginga Tetsudou no Yoru/Ito Kashitaro - Ginga Tetsudou no Yoru (Enerugi) [Kalindraz's Hard].osu
+./maps/840826 iru1919 - Tenko/iru1919 - Tenko (Seto Kousuke) [Collab Hard].osu
+./maps/906237 Ceui - First Love Syndrome/Ceui - First Love Syndrome (Little) [Hard].osu
+./maps/813468 Neru feat. Kagamine Rin - Datsugoku/Neru feat. Kagamine Rin - Datsugoku (Ryuusei Aika) [Ky's Hard].osu
+./maps/906786 Koda Kumi - Guess Who Is Back (TV Size)/Koda Kumi - Guess Who Is Back (TV Size) (Sotarks) [Hard].osu
+./maps/840047 Seatbelts feat. Yamane Mai - THE REAL FOLK BLUES/Seatbelts feat. Yamane Mai - THE REAL FOLK BLUES (moph) [Hard].osu
+./maps/846759 Reol - Jitter Doll/Reol - Jitter Doll (Sparhten) [Hard].osu
+./maps/949314 KISIDA KYODAN & THE AKEBOSI ROCKETS - CircleEnd/KISIDA KYODAN & THE AKEBOSI ROCKETS - CircleEnd (SMOKELIND) [Kowari's Hard].osu
+./maps/989745 REOL - VIORA/REOL - VIORA (Sparhten) [Lafa's Hard].osu
+./maps/862236 UNISON SQUARE GARDEN - Haru ga Kite Bokura/UNISON SQUARE GARDEN - Haru ga Kite Bokura (Glaceon) [Rieri's Hard].osu
+./maps/1014677 sakuzyo - dope dope dope/Sakuzyo - dope dope dope (Ellyu) [MCCREE's Hard].osu
+./maps/809992 Bora - Shine/Bora - Shine (Riana) [Hard].osu
+./maps/973996 Yuuyu - Scrap Syndrome/Yuuyu - Scrap Syndrome (deetz) [Hard].osu
+./maps/775846 An - Catanoph/An - Catanoph (Ryuusei Aika) [PandaHero's Hard].osu
+./maps/800205 Itou Keisuke, Kawagoe Yasuhiro, Murakami Noriko - Dark Matter Sen Second/Itou Keisuke, Kawagoe Yasuhiro, Murakami Noriko - Dark Matter Sen Second (leo16834) [Hard!].osu
+./maps/934243 Diao Ye Zong feat. nayuta - Tori yo Short Ver./Diao Ye Zong feat. nayuta - Tori yo Short Ver. (ailv) [Hard].osu
+./maps/881769 HO-KAGO TEA TIME - Tenshi ni Fureta yo! (Asterisk DnB Remix)/HO-KAGO TEA TIME - Tenshi ni Fureta yo! (Asterisk DnB Remix) (Sotarks) [Shunao's Hard].osu
+./maps/1004335 Takagi-san (CV_ Takahashi Rie) - Kanade (TV Size)/Takagi-san (CV Takahashi Rie) - Kanade (TV Size) (Karen) [Hard].osu
+./maps/984641 sana - Kanojo wa Tabi ni Deru/sana - kanojo wa tabi ni deru (Firika) [Hard].osu
+./maps/745457 Day6 - Man in a movie/DAY6 - Man in a movie (iYiyo) [Hard].osu
+./maps/912207 YURiKA - MIND CONDUCTOR (TV Size)/YURiKA - MIND CONDUCTOR (TV Size) (SMOKELIND) [Kowari's Hard].osu
+./maps/824487 Living Suitcase - Throws/Living Suitcase - Throws (pishifat) [Hard].osu
+./maps/849022 Wakeshima Kanon - Foul Play ni Kurari (TV Size)/Wakeshima Kanon - Foul Play ni Kurari (TV Size) (Uta) [Hard].osu
+./maps/740351 Wake Up, Girls! - Suki no Skill/Wake Up, Girls! - Suki no Skill (Loneight) [Hard SukoshiSuki].osu
+./maps/920337 Mili - Utopiosphere/Mili - Utopiosphere (DJ Lucky) [Dirdam's Hard].osu
+./maps/939836 Tia - Heart Realize (TV Size)/Tia - Heart Realize (TV Size) (Nevo) [Kowari's Hard].osu
+./maps/806635 Iguchi Yuka - RE-ILLUSION/Iguchi Yuka - RE-ILLUSION (Mordred) [GreenHue's Hard].osu
+./maps/979801 Konohana-tei Nakai no Kai - Haru Urara, Kimi to Sakihokoru (TV Size)/Konohana-tei Nakai no Kai - Haru Urara, Kimi to Sakihokoru (TV Size) (browiec) [Hard].osu
+./maps/988136 RiraN - Unshakable/RiraN - Unshakable (Affirmation) [Hard].osu
+./maps/878833 Marie - Shiroki Yami no Arabesque (Soleily Remix)/Marie - Shiroki Yami no Arabesque (Soleily Remix) (Lasse) [Hard].osu
+./maps/725612 FROZEN QUALIA - Present/FROZEN QUALIA - Present (Garden) [Hard].osu
+./maps/924203 Co shu Nie - ZETTAI ZETSUMEI (TV Size)/Co shu Nie - ZETTAI ZETSUMEI (TV Size) (Agatsu) [Hard].osu
+./maps/767109 Oshino Ougi (CV_ Mizuhashi Kaori) - decent black (TV Size)/Oshino Ougi (CV Mizuhashi Kaori) - decent black (TV Size) (Chaoslitz) [gary00737's Hard].osu
+./maps/954337 Himeragi Yukina (CV_ Taneda Risa) - Scarlet Flower/Himeragi Yukina (CV Taneda Risa) - Scarlet Flower (Sotarks) [Nikakis' Hard].osu
+./maps/952725 LiSA - Gurenge (TV Size)/LiSA - Gurenge (TV Size) (xChippy) [Hard].osu
+./maps/728110 Various Artists - Save you Save me (TV Size)/Various Artists - Save you Save me (TV Size) (Asuka_-) [Hard].osu
+./maps/968923 HyuN - Illusion of Inflict/HyuN - Illusion of Inflict (Icekalt) [Kibkalt's Hard].osu
+./maps/942837 TrySail - azure (TV Size)/TrySail - azure (TV Size) (deetz) [VINXIS' Hard].osu
+./maps/779775 Adachi Minako, Kuroda Hideaki - Sentou! Aqua-dan _ Magma-dan no Leader/Adachi Minako, Kuroda Hideaki - Sentou! Aqua-dan  Magma-dan no Leader (Realazy) [Trynna's Hard].osu
+./maps/1014936 Thaehan - Bwa !/Thaehan - Bwa ! (Sonnyc) [Hard].osu
+./maps/826758 monetochka - Nimfomanka/monetochka - Nimfomanka (-Mikan) [Hard].osu
+./maps/734780 android52 - anime no mizo 420/android52 - anime no mizo 420 (pishifat) [Hard].osu
+./maps/914756 halca - Sentimental Crisis (TV Size)/halca - Sentimental Crisis (TV Size) (Nao Tomori) [Hard].osu
+./maps/909638 Minami - Kawaki o Ameku (TV Size)/Minami - Kawaki o Ameku (TV Size) (xChippy) [Mochi's Hard].osu
+./maps/1001238 Iguchi Yuka - HELLO to DREAM (TV Size)/Iguchi Yuka - HELLO to DREAM (TV Size) (Gottagof4st) [contagious' Hard].osu
+./maps/859370 _namirin - The Noise of Rain/namirin - The Noise of Rain (Sotarks) [Shunao's Hard].osu
+./maps/901131 HoneyWorks - Miraizu feat. Aida Miou (CV_ Toyosaki Aki)/HoneyWorks - Miraizu feat. Aida Miou (CV Toyosaki Aki) (Creamy Candy) [Hard].osu
+./maps/765795 Ryu_ - Sakura Mirage (STARLiGHT Mix)/Ryu - Sakura Mirage (STARLiGHT Mix) (Jean-Michel Jr) [Hard].osu
+./maps/937782 Yasuda Rei - blooming/Yasuda Rei - blooming (Glaceon) [Hard].osu
+./maps/555617 Ohashi Ayaka - Wagamama MIRROR HEART (TV Size)/Ohashi Ayaka - Wagamama MIRROR HEART (TV Size) (eINess) [Hard].osu
+./maps/855083 Miss Monochrome (CV_ Horie Yui) - Poker Face/Miss Monochrome (CV Horie Yui) - Poker Face (Akitoshi) [Hard].osu
+./maps/855765 ASIAN KUNG-FU GENERATION - After Dark/Asian Kung-Fu Generation - After Dark (Seto Kousuke) [Hard].osu
+./maps/965145 Becky G, Maluma - La Respuesta/Becky G, Maluma - La Respuesta (Kazuya) [Hard].osu
+./maps/916990 _namirin - Koishiteiku Planet/namirin - Koishiteiku Planet (Trynna) [Kalibe's Hard].osu
+./maps/905485 July - January Rain/July - January Rain (Shiranai) [Hard].osu
+./maps/937247 HyuN feat. Ms. Valentine - CROSS FATE/HyuN feat. Ms. Valentine - CROSS FATE (cococolaco) [Hard].osu
+./maps/669536 Linkin Park - Session/Linkin Park - Session (h4d0uk3n1) [Hard].osu
+./maps/898824 Kondo Koji - Hyrule Castle Courtyard/Kondo Koji - Hyrule Castle Courtyard (Nitroz) [Hard].osu
+./maps/945019 Akira Complex - Ether Strike/Akira Complex - Ether Strike (Mun) [Hard].osu
+./maps/890270 bibuko - Reizouko Mitara Pudding ga Nai/bibuko - Reizouko Mitara Pudding ga Nai (DeRandom Otaku) [Wajinshu's Hard].osu
+./maps/882209 SawanoHiroyuki[nZk]_Tielle & Gemie - gravityWall (TV Size)/SawanoHiroyuki[nZk]Tielle & Gemie - gravityWall (TV Size) (Tomadoi) [blgl's Hard].osu
+./maps/967778 Ichinose Go - Mishiro Town/Ichinose Go - Mishiro Town (Leader) [Hard].osu
+./maps/930460 Aoba Ringo & Nakae Mitsuki - Crystal of Beginning/Aoba Ringo & Nakae Mitsuki - Crystal of Beginning (LMT) [Hard].osu
+./maps/879244 Yumeno Yuki - THE APPLE IS CAST!/Yumeno Yuki - THE APPLE IS CAST! (Left) [Hard].osu
+./maps/759524 Dormir - Une mage blanche/Dormir - Une mage blanche (Sulfur) [Ultima Fox's Hard].osu
+./maps/925524 Yuusha Party - Endoro_ru! (TV Size)/Yuusha Party - Endoro~ru! (TV Size) (Kyle73) [Hard].osu
+./maps/942790 Marie - Innocent Sky/Marie - Innocent Sky (Lasse) [Hard].osu
+./maps/937783 Linked Horizon - Guren no Yumiya (TV Size)/Linked Horizon - Guren no Yumiya (TV Size) (Mao) [Hard].osu
+./maps/602408 The Winking Owl - Bloom/The Winking Owl - Bloom (Shmiklak) [Affirmation's Hard].osu
+./maps/839248 THE ORAL CIGARETTES - Sesshoku/THE ORAL CIGARETTES - Sesshoku (Nevo) [Alphabet's Hard].osu
+./maps/846154 Tsukasa - One Way Love/Tsukasa - One Way Love (Mak Kau Hijau) [Hard].osu
+./maps/933554 Hanasaka Yui (CV_ M.A.O) - Harumachi Clover (TV Size)/Hanasaka Yui (CV M.A.O) - Harumachi Clover (TV Size) (Hanasaka Yui) [Hard].osu
+./maps/815868 yanaginagi - Satoudama no Tsuki (TV Size)/yanaginagi - Satoudama no Tsuki (TV Size) (Ultima Fox) [GreenHue's Hard].osu
+./maps/485376 Streetlight Manifesto - A Moment of Violence/Streetlight Manifesto - A Moment of Violence (pishifat) [Hard].osu
+./maps/977631 Thaehan - Help/Thaehan - Help (_Epreus) [Xenon's Hard].osu
+./maps/883825 Shimotsuki Haruka - Tsubasa o Motanai Shoujo/Shimotsuki Haruka - Tsubasa o Motanai Shoujo (Dored) [koko's Hard].osu
+./maps/862256 SOPHIE - Faceshopping/SOPHIE - Faceshopping (Myxo) [LMT's Hard].osu
+./maps/1006608 Iguchi Yuka - HELLO to DREAM/Iguchi Yuka - HELLO to DREAM (Mordred) [Ayyri's Hard].osu
+./maps/865746 the peggies - Kimi no Sei (TV Size)/the peggies - Kimi no Sei (TV Size) (Sotarks) [Ayyri's Hard].osu
+./maps/924551 Minami - Kawaki wo Ameku (TV Size)/Minami - Kawaki wo Ameku (TV Size) (Karen) [Hard].osu
+./maps/916847 M2U - Happy birthday to You (M2U Version)/M2U - Happy birthday to You (M2U Version) (UndeadCapulet) [Hard].osu
+./maps/937285 Yamamoto Mineko - Pilgrimage/Yamamoto Mineko - Pilgrimage (Gust) [Dalou's Hard].osu
+./maps/834127 Denkishiki Karen Ongaku Shuudan - Yakata Mawari/Denkishiki Karen Ongaku Shuudan - Yakata Mawari (Dored) [Hard].osu
+./maps/788262 Mayak - Alyy zakat/Mayak - Alyy zakat (Gordon123) [Mortem's Hard].osu
+./maps/577837 TWICE - KNOCK KNOCK/TWICE - KNOCK KNOCK (Fragmented) [Hard].osu
+./maps/977276 The Flashbulb - Mellann/The Flashbulb - Mellann (Gabe) [polka's Hard].osu
+./maps/960068 mafumafu - Idola no Circus/mafumafu - Idola no Circus (Jian) [Chalwa's Hard].osu
+./maps/888109 ClariS - Connect (TV Size)/ClariS - Connect (TV Size) (browiec) [Peter's Hard].osu
+./maps/880475 Hi!Superb - Happy Life Spectacle (TV Size)/Hi!Superb - Happy Life Spectacle (TV Size) (Sandrew) [Sanbelia's Hard].osu
+./maps/884581 Okazaki Taiiku - Kimi no Bouken (TV Size)/Okazaki Taiiku - Kimi no Bouken (TV Size) (Sotarks) [Shunao's Hard].osu
+./maps/814535 HoneyComeBear - Mirror/HoneyComeBear - Mirror (Foxy Grandpa) [KKip's Hard].osu
+./maps/717623 Pandize - Stratos/Pandize - Stratos (Mun) [Hard].osu
+./maps/934415 Ben Briggs - Fearless Living/Ben Briggs - Fearless Living (Lasse) [Hard].osu
+./maps/749304 USAO - FREEDOM (Extended Mix)/USAO - FREEDOM (Extended Mix) (C00L) [Hard].osu
+./maps/723656 Uesaka Sumire - POP TEAM EPIC (TV Size)/Uesaka Sumire - POP TEAM EPIC (TV Size) (Starfy) [Regou's Hard].osu
+./maps/898881 Reid Speed & Ahee - Overtaken (feat. Heartwurkz)/Reid Speed & Ahee - Overtaken (feat. Heartwurkz) (Rue) [h4d0uk3n's Hard].osu
+./maps/797340 Six Stones - Topoviy Lut (feat. Maemiza)/Six Stones - Topoviy Lut (feat. Maemiza) (3mplify) [Hard M16A4].osu
+./maps/843350 Ebisuzawa Kurumi (CV_ Ozawa Ari) - RUN & RUN/Ebisuzawa Kurumi (CV Ozawa Ari) - RUN & RUN (Ayucchi) [Hard].osu
+./maps/909140 Wataten_5 - Kimama na Tenshitachi (TV Size)/wataten5 - Kimama na Tenshitachi (TV Size) (eINess) [Hard].osu
+./maps/853045 Kajiura Yuki - Pugna cum maga/Kajiura Yuki - Pugna cum maga (Trynna) [Hard].osu
+./maps/950890 Kano - Ikanaide/Kano - Ikanaide (Irin) [papple's Hard].osu
+./maps/897216 yuikonnu - Mousou Sketch/yuikonnu - Mousou Sketch (Trust) [Raose's Hard].osu
+./maps/853469 A Zhong Bu Dai Xi - Gu Niang De Jiu Wo/A Zhong Bu Dai Xi - Gu Niang De Jiu Wo (Hey lululu) [leo16834's Hard].osu
+./maps/984517 Oomori Seiko - JUSTadICE (TV Size)/Oomori Seiko - JUSTadICE (TV Size) (xChorse) [Hard].osu
+./maps/921667 Huang Fei - Hong Te Khau/Huang Fei - Hong Te Khau (Regraz) [Hard].osu
+./maps/927682 Yin Lin - Lu Gu Xun Meng/Yin Lin - Lu Gu Xun Meng (AIR) [Hard].osu
+./maps/897698 yuikonnu - Natsu no Owari, Koi no Hajimari/yuikonnu - Natsu no Owari, Koi no Hajimari (Gottagof4st) [nao's Hard].osu
+./maps/854750 Naju & Tute - Despacito (Speed Up Ver.)/Naju & Tute - Despacito (Speed Up Ver.) (Testo) [semaphore's Hard].osu
+./maps/949028 Stray Kids - MIROH/Stray Kids - MIROH (DeRandom Otaku) [Regraz's Hard].osu
+./maps/961598 JO_STARS _TOMMY, Coda, JIN_ - JoJo Sono Chi no Kioku _end of THE WORLD_ (TV Size)/JOSTARS ~TOMMY, Coda, JIN~ - JoJo Sono Chi no Kioku ~end of THE WORLD~ (TV Size) (Yudragen) [Hard].osu
+./maps/914239 NakamuraEmi - Kakatte Koi yo (TV Size)/NakamuraEmi - Kakatte Koi yo (TV Size) (VINXIS) [Cellina's Hard].osu
+./maps/928483 (K)NoW_NAME - Harvest (TV Size)/(K)NoW_NAME - Harvest (TV Size) (kanor) [Sandrew's Hard].osu
+./maps/969312 void - Dedication/void - dedication (Rockyy) [Shani's Hard].osu
+./maps/876496 SEMARGL - Credo Revolution (Zardonic Remix)/SEMARGL - Credo Revolution (Zardonic Remix) (eiri-) [Bakari's Hard].osu
+./maps/942969 Mar.na - Keys _Toki o Musunde_/Mar.na - Keys ~Toki o Musunde~ (Nao Tomori) [Hard].osu
+./maps/720428 Noisia - Shellshock feat. Foreign Beggars/Noisia - Shellshock feat. Foreign Beggars (NeilPerry) [Rohit6's Hard].osu
+./maps/904081 Okura Asuka - Prime number _Kimi to Deaeru Hi_/Okura Asuka - Prime number ~Kimi to Deaeru Hi~ (timemon) [Hard].osu
+./maps/672530 Feint - Outbreak (feat. MYLK)/Feint - Outbreak (feat. MYLK) (Reform) [Stingy's Hard].osu
+./maps/824132 Tadokoro Azusa - 1HOPE SNIPER/Tadokoro Azusa - 1HOPE SNIPER (Sotarks) [nao's Hard].osu
+./maps/907084 SEREBRO - Mi Mi Mi (Speed Up Ver.)/SEREBRO - Mi Mi Mi (Speed Up Ver.) (eiri-) [Seto's Hard].osu
+./maps/836453 Iwasaki Kanae - Back on the world/Iwasaki Kanae - Back on the World (Lasse) [Hard].osu
+./maps/906646 CHERRYBLOSSOM - DIVE TO WORLD (TV Size)/CHERRYBLOSSOM - DIVE TO WORLD (TV Size) (Chaoslitz) [leo16834's Hard].osu
+./maps/988626 Napoleon - Dystopia/Napoleon - Dystopia (Mun) [Hard].osu
+./maps/995203 Oshimizu Nako (CV_ Toyosaki Aki) - Diamond/Oshimizu Nako (CV Toyosaki Aki) - Diamond (Sotarks) [Kowari's Hard].osu
+./maps/925328 UVERworld - Touch off (TV Size)/UVERworld - Touch off (TV Size) (VINXIS) [Meyrink's Hard].osu
+./maps/449183 Kano - Platonic Love/Kano - Platonic Love (bbu) [Hard].osu
+./maps/756511 Ni-Sokkususu - Blade Dance/Ni-Sokkususu - Blade Dance (Doormat) [Kalitoshi's Hard].osu
+./maps/837568 sajou no hana - Hoshie (TV Size)/sajou no hana - Hoshie (TV Size) (AirinCat) [Cris' Hard].osu
+./maps/887102 Rammstein - Feuer frei!/Rammstein - Feuer frei! (Frey) [Peter's Hard].osu
+./maps/317749 EYE_XY feat. Yoneko - Knight of Firmament/EYE_XY feat. Yoneko - Knight of Firmament (Pho) [Hard].osu
+./maps/934627 Ben Briggs - New Game Plus/Ben Briggs - New Game Plus (Icekalt) [Hard].osu
+./maps/975615 Matrix & Futurebound - Fire (feat. Max Marshall)/Matrix & Futurebound - Fire (feat. Max Marshall) (Asphyxia) [Hard].osu
+./maps/869783 San Diego (CV_ Itou Asuka) - Wa ta shi wa _ No.1!/San Diego (CV Itou Asuka) - Wa ta shi wa No.1! (Shurelia) [Noz's Hard!].osu
+./maps/940764 Horishita Sayuri - Kimochi Signal (TV Size)/Horishita Sayuri - Kimochi Signal (TV Size) (Agatsu) [Hard].osu
+./maps/901472 MIYAVI vs. KenKen - Flashback (TV Size)/MIYAVI vs. KenKen - Flashback (TV Size) (Ryuusei Aika) [L18's Hard].osu
+./maps/880070 AAAA - Hiyokko Santa to Yuki no Machi (Dear A Remix)/AAAA - Hiyokko Santa to Yuko no Machi (Dear A Remix) (Azzedd) [Hard].osu
+./maps/825507 Miqz - Sound of My Dream/Miqz - Sound of My Dream (FrenZ396) [Hard].osu
+./maps/917614 KANA-BOON - Sakura no Uta/KANA-BOON - Sakura no Uta (Nevo) [xChorse's Hard].osu
+./maps/791667 cYsmix - Babaroque (Short Ver.)/cYsmix - Babaroque (Short Ver.) (Mao) [Niva's Hard].osu
+./maps/720193 ClariS - SHIORI/ClariS - SHIORI (lit120) [Hard].osu
+./maps/961362 Narae - Horangpungnyuga/Narae - Horangpungnyuga (-ClariS-) [Hard].osu
+./maps/889441 Astronaut - Champions (feat. Harry Brooks Jnr)/Astronaut - Champions (feat. Harry Brooks Jnr) (Come[Back]Home) [Hard].osu
+./maps/960928 Nomiyama Mutsumi - Hanashirube (OP Edit)/Nomiyama Mutsumi - Hanashirube (OP Edit) (Gust) [Hard].osu
+./maps/985841 KISIDA KYODAN & THE AKEBOSI ROCKETS - Sirius (TV Size)/KISIDA KYODAN & THE AKEBOSI ROCKETS - Sirius (TV Size) (SMOKELIND) [Airin's Hard].osu
+./maps/482317 Krewella - Surrender The Throne/Krewella - Surrender The Throne (xDarxen) [Hard].osu
+./maps/829400 majiko - Hibiwareta Sekai/majiko - Hibiwareta Sekai (Shunao) [Haruki's Hard].osu
+./maps/881581 SoraMafuUraSaka feat. Knives Out - FPS/SoraMafuUraSaka feat. Knives Out - FPS (AirinCat) [Hard].osu
+./maps/988428 Abe Mao - Kotae (TV Size)/Abe Mao - Kotae (TV Size) (Kalibe) [apple's Hard].osu
+./maps/952047 JIN feat. LiSA & MARiA from GARNiDELiA - Yobanashi Deceive/JIN feat. LiSA & MARiA from GARNiDELiA - Yobanashi Deceive (Nevo) [Airin's Hard].osu
+./maps/956716 Fractal Dreamers - Gardens Under A Spring Sky/Fractal Dreamers - Gardens Under A Spring Sky (Lasse) [Hard].osu
+./maps/932165 supercell - Mr.Downer/supercell - Mr.Downer (Reform) [Hard].osu
+./maps/957328 Fractal Dreamers - Module_410/Fractal Dreamers - Module_410 (Nao Tomori) [Hard].osu
+./maps/483533 ClariS - Gravity (TV Size)/ClariS - Gravity (TV Size) (-ClariS-) [117's Hard].osu
+./maps/915322 Paul Bazooka - DrunkenSteiN/Paul Bazooka - DrunkenStein (Nao Tomori) [Hard].osu
+./maps/1016472 Shiina Yuika - Shiina Yuika o Matteimasu./Shiina Yuika - Shiina Yuika o Matteimasu. (Yugu) [ClariS' Hard].osu
+./maps/802454 KOKOMI - Seikyou no Igreja/KOKOMI - Seikyou no Igreja (IceKalt) [Hard].osu
+./maps/962996 Fujiwara Chika (CV_ Kohara Konomi) - Chikatto Chika Chika/Fujiwara Chika (CV Kohara Konomi) - Chikatto Chika Chika (hypercyte) [Peter's Hard].osu
+./maps/933863 SPYAIR - Sakura Mitsutsuki (TV Size)/SPYAIR - Sakura Mitsutsuki (TV size) (MiracleE) [Ayyfayla's Hard].osu
+./maps/927758 Aso Natsuko - Perfect-area complete!/Aso Natsuko - Perfect-area complete! (gary00737) [Dored's Hard].osu
+./maps/932654 Pastel_Palettes - Happy Synthesizer/PastelPalettes - Happy Synthesizer (ktgster) [Mikan's Hard].osu
+./maps/820180 Roselia - R/Roselia - R (Doormat) [Hard].osu
+./maps/827518 KOTOKO - Re-sublimity (TV Size)/KOTOKO - Re-sublimity (TV Size) (Net0) [Boss' Hard].osu
+./maps/891337 HyuN feat. LyuU - Cross Over/HyuN feat. LyuU - CROSS OVER (Realazy) [BOUYAAA's Hard].osu
+./maps/804063 BTS - Go Go/BTS - Go Go (Lilyanna) [Hari's Hard].osu
+./maps/778187 DJ-DOC_EPIK HIGH - NX K-POP Dance/DJ-DOCEPIK HIGH - NX K-POP Dance (PandaHero) [Hard].osu
+./maps/952409 MIMI feat. Hatsune Miku - Ai no Sukima/MIMI feat. Hatsune Miku - Ai no Sukima (Log Off Now) [Hard].osu
+./maps/938926 Tashiro Tomokazu - Koi no Hime Hime Pettanko (Karaoke)/Tashiro Tomokazu - Koi no Hime Hime Pettanko (Karaoke) (DakiniBrave) [Hard].osu
+./maps/782157 Wasuta - Pretty_Channel (TV Size)/Wasuta - PrettyChannel (TV Size) (Lami) [Asuka_-'s Hard].osu
+./maps/1001324 Roselia - MIIRO/Roselia - MIIRO (-Aqua) [Corinn's Hard].osu
+./maps/863227 Brian The Sun - Lonely Go! (TV Size)/Brian The Sun - Lonely Go! (TV Size) (Nevo) [Agatsu's Hard].osu
+./maps/949703 REOL - Kamisama ni Natta Hi/REOL - Kamisama ni Natta Hi (I love apples) [Hard].osu
+./maps/901501 JOYCA - Heart & Soul (feat. Boostee)/JOYCA - Heart & Soul (feat. Boostee) (Battquif) [Hard].osu
+./maps/910748 MADKID - RISE (TV Size)/MADKID - RISE (TV Size) (Yasaija 714) [Hard].osu
+./maps/874345 Shokotan Daisuki Dempagumi - PUNCH LINE!/Shokotan Daisuki Dempagumi - PUNCH LINE! (Nevo) [Agatsu's Hard].osu
+./maps/869649 455-38B - G e n g a o z o - f o o n/455-38B - G e n g a o z o - f o o n (ktgster) [Hard].osu
+./maps/951960 Spira Spica - Koi wa Miracle (TV Size)/Spira Spica - Koi wa Miracle (TV Size) (DJ Lucky) [Hard].osu
+./maps/986934 JIN feat. LiSA - Headphone Actor/JIN feat. LiSA - Headphone Actor (Nevo) [Habi's Hard].osu
+./maps/773513 Nomizu Iori - Black + White (TV Size)/Nomizu Iori - Black + White (TV Size) (Testo) [Hard].osu
+./maps/852998 ClariS - SHIORI (TV Size)/ClariS - SHIORI (TV Size) (Alexsander) [Hard].osu
+./maps/949297 tieff - Sunflower/tieff - Sunflower (schoolboy) [Trynna's Hard].osu
+./maps/763406 Hondo Kaede, Oonishi Saori, Waki Azumi, Kino Hina, Matsuda Risae, Suzuki Eri - Save you Save me/Hondo Kaede, Oonishi Saori, Waki Azumi, Kino Hina, Matsuda Risae, Suzuki Eri - Save you Save me (Little) [Hard].osu
+./maps/812792 -45 - Midorigo Queen Bee/-45 - Midorigo Queen Bee (PandaHero) [Hard].osu
+./maps/863999 Iguchi Yuka - Kakumei Zenya (TV Size)/Iguchi Yuka - Kakumei Zenya (TV Size) (YukiZura-) [Hard].osu
+./maps/774450 UNISON SQUARE GARDEN - Sugar Song to Bitter Step/UNISON SQUARE GARDEN - Sugar Song to Bitter Step (Monstrata) [zhu's Hard].osu
+./maps/906781 Yuyoyuppe - I miss you/Yuyoyuppe - I miss you (Seto Kousuke) [Hard].osu
+./maps/996529 ItaloBrothers - Summer Air/Italobrothers - Summer Air (L3NNy) [Hard].osu
+./maps/926031 Mitchie M feat. Hatsune Miku - Stand Up!/Mitchie M feat. Hatsune Miku - Stand Up! (dennischan) [Hard].osu
+./maps/927384 Shimotsuki Haruka, Suzuyu - Fairy Wreath/Shimotsuki Haruka, Suzuyu - Fairy Wreath (Log Off Now) [Hard].osu
+./maps/851543 Culprate - Florn/Culprate - Florn (StarrStyx) [Real's Hard].osu
+./maps/853519 Amatsuki - DORAEMON/Amatsuki - DORAEMON (Nevo) [Shunao's Hard].osu
+./maps/872314 Yuyoyuppe - 7_8/Yuyoyuppe - 78 (Seto Kousuke) [Trynna's Hard].osu
+./maps/923095 Camellia - Diastrophism/Camellia - Diastrophism (Regou) [Hard].osu
+./maps/836286 M2U - Sandglass/M2U - Sandglass (Hailie) [Hard].osu
+./maps/791658 Seven Lions & Echos - Cold Skin/Seven Lions & Echos - Cold Skin (Fursum) [Hard].osu
+./maps/879904 THE ORAL CIGARETTES - Livelock Art/THE ORAL CIGARETTES - Livelock Art (SMOKELIND) [Hard].osu
+./maps/759268 siinamota - Uta o Utau Hito/siinamota - Uta o Utau Hito (Renumi) [Hard].osu
+./maps/805618 Machico - Korekara (TV Size)/Machico - Korekara (TV Size) (Onlybiscuit) [Agent_James' Hard].osu
+./maps/847812 J. Pachelbel - Canon (Cranky Remix)/J. Pachelbel - Canon (Cranky Remix) (lcfc) [Kalibe's Hard].osu
+./maps/798677 Vickeblanka - Black Rover (TV Size)/Vickeblanka - Black Rover (TV Size) (Dashyy-) [Hard].osu
+./maps/830444 Umeboshi Chazuke - Wakare no Namida wa Mata Au Hi made/Umeboshi Chazuke - Wakare no Namida wa Mata Au Hi Made (Azzedd) [Hard].osu
+./maps/777156 Ichinose Go - Victory Road/Ichinose Go - Victory Road (pkhg) [Hard].osu
+./maps/891581 M2U - Velocity/M2U - Velocity (M2Usonek) [Cris & Kanon's Lock (Hard)].osu
+./maps/802056 Luis Fonsi & Demi Lovato - Echame La Culpa/Luis Fonsi & Demi Lovato - Echame La Culpa (Sotarks) [Gero's Hard].osu
+./maps/861289 TK from Ling tosite sigure - katharsis (TV Size)/TK from Ling tosite sigure - katharsis (TV Size) (Monstrata) [Hard].osu
+./maps/975301 TWICE - CHILLAX/TWICE - CHILLAX (DeRandom Otaku) [Xenon's Hard].osu
+./maps/903876 Akatsuki Records - Treasure Cirno/Akatsuki Records - Treasure Cirno (Apo11o) [Keitaro's Hard].osu
+./maps/920826 Ogura Yui - Zutto Futari de/Ogura Yui - Zutto Futari de (Yuuma) [Hard].osu
+./maps/986329 Sougetsu Eli - Aoi Chou/Sougetsu Eli - Aoi Chou (Yugu) [Hard].osu
+./maps/919925 AKINO from bless4 - MIIRO (TV Size)/AKINO from bless4 - Miiro (TV Size) (Nao Tomori) [Hard].osu
+./maps/977715 Murakawa Rie, Ozawa Ari, Takahashi Rie, Tanaka Minami - HYPNO/Murakawa Rie, Ozawa Ari, Takahashi Rie, Tanaka Minami - HYPNO (Mordred) [Hard].osu
+./maps/855691 I Love Egg - I Love Egg/I Love Egg - I Love Egg (Nitroz) [Hard Boiled].osu
+./maps/951964 Study - Seishun Seminar (TV Size)/Study - Seishun Seminar (TV Size) (Nao Tomori) [Hard].osu
+./maps/844319 egor nats - poslednyaya pesnya o ney/egor nats - poslednyaya pesnya o ney (Daycore) [Cami's Hard].osu
+./maps/695826 Chito (CV_ Minase Inori), Yuuri (CV_ Kubo Yurika) - Ugoku, Ugoku (TV Size)/Chito (CV Minase Inori), Yuuri (CV Kubo Yurika) - Ugoku, Ugoku (TV Size) (Uta) [Asuka_-'s Hard].osu
+./maps/830987 GD X TAEYANG - GOOD BOY/GD X TAEYANG - GOOD BOY (Regraz) [Zzz's Hard].osu
+./maps/930062 Yuyoyuppe - -ELIS-/Yuyoyuppe - -ELIS- (Seto Kousuke) [Senhor's Hard].osu
+./maps/351874 lapix - Nightmare feat. Luschel/lapix - Nightmare feat. Luschel (Hakurei Yoru) [Stella's Hard].osu
+./maps/967405 ASIAN KUNG-FU GENERATION - Dororo (TV Size)/ASIAN KUNG-FU GENERATION - Dororo (TV Size) (Agatsu) [Hard].osu
+./maps/891609 Utada Hikaru & Skrillex - Face My Fears (Japanese Version)/Utada Hikaru & Skrillex - Face My Fears (Japanese Version) (Lulu-) [Cami's Hard].osu
+./maps/832324 (G)I-DLE - HANN (Alone)/(G)I-DLE - HANN (Alone) (cosmiccc) [Hari's Hard].osu
+./maps/999421 Chata - Aru Korai kara Nozoku Tensen/Chata - Aru Korai Kara Nozoku Tensen (Senseabel) [Hard].osu
+./maps/941509 Starlight Kukugumi - You are a ghost, I am a ghost _Gekijou no Ghost_/Starlight Kukugumi - You are a ghost, I am a ghost ~Gekijou no Ghost~ (Gaia) [Irohas' Hard].osu
+./maps/362129 Takigawa Alisa - Sayonara no Yukue (TV Size)/Takigawa Alisa - Sayonara no Yukue (TV size) (eINess) [wkyik's Hard].osu
+./maps/977916 RADWIMPS - Yume Tourou/RADWIMPS - Yume Tourou (Agatsu) [Hard].osu
+./maps/1004116 Suda Keina - veil (TV Size)/Suda Keina - veil (TV Size) (Fixxis) [Fixruto's Hard].osu

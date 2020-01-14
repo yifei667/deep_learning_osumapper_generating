@@ -1,0 +1,13 @@
+---
+:id: 25894428
+:submitters:
+- :name: Yifei Yu
+  :email: yuyifei@gatech.edu
+- :name: Jiawen Huang
+  :email: jhuang448@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-12-04 03:44:25.569619000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-12-03 19:44:25.569619000 Z
+:status: processed
